@@ -5,7 +5,7 @@
           fill="none" stroke="#FFFFFF" stroke-width="15" stroke-linecap="round" stroke-linejoin="round"/>
   </svg>
   <text x="66" y="31" font-family="'Plus Jakarta Sans', sans-serif" font-weight="800" font-size="24"
-        letter-spacing="-0.72" fill="#FFFFFF">Studora</text>
+        letter-spacing="-0.72" fill="#0F172A">Studora</text>
   <text x="66" y="45.4" font-family="'Plus Jakarta Sans', sans-serif" font-weight="500" font-size="10.5"
-        letter-spacing="0.105" fill="rgba(255,255,255,0.45)">Your Smart Student Companion</text>
+        letter-spacing="0.105" fill="#94A3B8">Your Smart Student Companion</text>
 </svg>
